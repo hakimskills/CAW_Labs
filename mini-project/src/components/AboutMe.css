@@ -1,0 +1,19 @@
+.about h1{
+    margin-left: 6rem;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+   
+}
+
+.about p{
+    font-size: 19px;
+    margin-left: 6rem;
+    margin-right: 8rem;
+    line-height: 2.1;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+.about{
+    padding-top: 3rem;
+}

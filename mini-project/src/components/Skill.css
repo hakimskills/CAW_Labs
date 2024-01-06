@@ -1,0 +1,52 @@
+.skill {
+    padding-top: 3rem;
+    margin-left: 6rem;
+    
+    
+}
+.skill img{
+    margin-top: 10px;
+    height: 30px;
+    width: 50px;
+    margin-left: 20px;
+
+}
+.skill-logo{
+    display: flex;
+    flex-direction: row;
+    font-weight: bold;
+
+}
+.skill-list{
+    margin-left: 20px;
+    line-height: 3;
+}
+.container {
+    display: flex;
+    align-items: stretch; 
+  }
+  
+  .left-panel,
+  .right-panel {
+    
+    padding: 20px;
+    box-sizing: border-box;
+    border: solid black 2px;
+    width: 44%;
+  }
+  
+  .bar {
+    width: 2px;
+    background-color: black;
+    height: 65vh;
+    margin: 0 10px;
+  }
+  .left-panel{
+   
+    position: relative;
+   
+  }
+  .redirect{
+    text-decoration: none;
+    font-size: 16px;
+  }
